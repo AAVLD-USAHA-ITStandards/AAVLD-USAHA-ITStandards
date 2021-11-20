@@ -1,4 +1,4 @@
-Currently this working group is composed by the eCVI and the data permit working groups, please for more information visit the table below for the appropriated links.
+Currently this working group is composed by **two subcommittees" __1) the eCVI__ and __2) the data permit__, please for more information and to engage with direct contributions to the open discussions please visit the table below for the appropriated links.
 
 <table><tr><td valign="top" width="33%">
 
