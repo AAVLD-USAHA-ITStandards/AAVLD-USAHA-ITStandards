@@ -1,4 +1,6 @@
-Currently this working group is composed by **two subcommittees** __1) the eCVI__ and __2) the Permit Data Standards__, please for more information and to engage with direct contributions to the open discussions please visit the table below for the appropriated links.
+**Note.**
+
+>Currently this working group is composed by **two subcommittees** __1) the eCVI__ and __2) the Permit Data Standards__, please for more information and to engage with direct contributions to the open discussions please visit the table below for the appropriated links.
 
 | eCVI                                                                                          	| Permit Data Standards                                                                                         	|
 |-----------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------	|
