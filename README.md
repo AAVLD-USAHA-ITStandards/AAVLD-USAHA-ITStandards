@@ -1,6 +1,7 @@
 1. Currently this working group is composed by **two subcommittees** __1) the eCVI__ and __2) the Permit Data Standards__, please for more information and to engage with direct contributions to the open discussions please visit the table below for the appropriated links.
 
 3. Table of contents 
+
 | eCVI                                                                                          	| Permit Data Standards                                                                                         	|
 |-----------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------	|
 | [Governance](https://github.com/AAVLD-USAHA-ITStandards/eCVI/tree/master/Governance)          	| [Governance](https://github.com/AAVLD-USAHA-ITStandards/Permit/tree/main/Governance)            	|
