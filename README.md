@@ -7,4 +7,3 @@
 | [To post and issues for eCVI go here](https://github.com/AAVLD-USAHA-ITStandards/eCVI/issues) 	| [To post and issues for Permit go here](https://github.com/AAVLD-USAHA-ITStandards/Permit/issues) 	|
 | More [recent releases](https://github.com/AAVLD-USAHA-ITStandards/eCVI/releases/tag/v2.3)     	| [More recent releases](Coming up soon)                                                          	|
 
-- [Please visit the project tab to learn more about key milestones of this working group](https://github.com/users/AAVLD-USAHA-ITStandards/projects/1/views/5)
