@@ -1,6 +1,4 @@
-1. Please visit the project tab to learn more about key milestones of this working group [click here](https://github.com/users/AAVLD-USAHA-ITStandards/projects/1/views/5)
-
-2. Currently this working group is composed by **two subcommittees** __1) the eCVI__ and __2) the Permit Data Standards__, please for more information and to engage with direct contributions to the open discussions please visit the table below for the appropriated links.
+1. Currently this working group is composed by **two subcommittees** __1) the eCVI__ and __2) the Permit Data Standards__, please for more information and to engage with direct contributions to the open discussions please visit the table below for the appropriated links.
 
 | eCVI                                                                                          	| Permit Data Standards                                                                                         	|
 |-----------------------------------------------------------------------------------------------	|-------------------------------------------------------------------------------------------------	|
