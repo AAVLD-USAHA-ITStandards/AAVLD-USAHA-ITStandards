@@ -7,6 +7,6 @@
 | [Governance](https://github.com/AAVLD-USAHA-ITStandards/eCVI/tree/master/Governance)          	| [Governance](https://github.com/AAVLD-USAHA-ITStandards/Permit/tree/main/Governance)            	|
 | [Supplemental](https://github.com/AAVLD-USAHA-ITStandards/eCVI/tree/master/Supplemental)      	| [Supplemental](https://github.com/AAVLD-USAHA-ITStandards/Permit/tree/main/Supplemental)        	|
 | [To post and issues for eCVI go here](https://github.com/AAVLD-USAHA-ITStandards/eCVI/issues) 	| [To post and issues for Permit go here](https://github.com/AAVLD-USAHA-ITStandards/Permit/issues) 	|
-| [Code](https://github.com/AAVLD-USAHA-ITStandards/eCVI/issues) 	| [Code]() 	|
+| [Normatice standard ](https://github.com/AAVLD-USAHA-ITStandards/eCVI/tree/master/Normative%20standard) 	| [Normatice standard]() 	|
 | More [recent releases](https://github.com/AAVLD-USAHA-ITStandards/eCVI/releases/tag/v2.3)     	| [More recent releases](Coming up soon)                                                          	|
 
