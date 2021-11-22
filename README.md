@@ -1,4 +1,4 @@
-1. Currently this subcommittee is composted of two workgroups 1) eCVI and 2) permit.  For more information and to engage with direct contributions to the open discussions, please visit the repositories pinned below.
+1. Currently this subcommittee is composed of two workgroups 1) eCVI and 2) permit.  For more information and to engage with direct contributions to the open discussions, please visit the repositories pinned below.
 
 3. Table of contents 
 
